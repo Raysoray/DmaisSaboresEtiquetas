@@ -1,0 +1,728 @@
+body {
+    width: 2480px;
+    height: 3508px;
+}
+
+.receita {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 10px; 
+}
+
+.titulo {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+    
+}
+
+.ingredientes {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita2 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 535px; 
+}
+
+.titulo2 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes2 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita3 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 1060px; 
+}
+
+.titulo3 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes3 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita4 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 1585px; 
+}
+
+.titulo4 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes4 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita5 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 10px; 
+}
+
+.titulo5 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes5 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita6 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 535px; 
+}
+
+.titulo6 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes6 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita7 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 1060px; 
+}
+
+.titulo7 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes7 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita8 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 1585px; 
+}
+
+.titulo8 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes8 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita9 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 10px; 
+}
+
+.titulo9 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+    
+}
+
+.ingredientes9 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita10 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 535px; 
+}
+
+.titulo10 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes10 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita11 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 1060px; 
+}
+
+.titulo11 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes11 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita12 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 1585px; 
+}
+
+.titulo12 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes12 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+.receita13 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 10px; 
+}
+
+.titulo13 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+    
+}
+
+.ingredientes13 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita14 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 535px; 
+}
+
+.titulo14 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes14 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita15 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 1060px; 
+}
+
+.titulo15 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes15 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita16 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 1585px; 
+}
+
+.titulo16 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes16 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita17 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 10px; 
+}
+
+.titulo17 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes17 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita18 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 535px; 
+}
+
+.titulo18 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes18 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita19 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 1060px; 
+}
+
+.titulo19 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes19 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita20 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 1585px; 
+}
+
+.titulo20 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes20 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita21 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 10px; 
+}
+
+.titulo21 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+    
+}
+
+.ingredientes21 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita22 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 535px; 
+}
+
+.titulo22 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes22 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita23 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 1060px; 
+}
+
+.titulo23 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes23 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita24 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 1585px; 
+}
+
+.titulo24 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes24 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+.receita25 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 10px; 
+}
+
+.titulo25 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+    
+}
+
+.ingredientes25 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita26 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 535px; 
+}
+
+.titulo26 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes26 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita27 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 1060px; 
+}
+
+.titulo27 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes27 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita28 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 1585px; 
+}
+
+.titulo28 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes28 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita29 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 10px; 
+}
+
+.titulo29 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes29 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita30 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 535px; 
+}
+
+.titulo30 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes30 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita31 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 1060px; 
+}
+
+.titulo31 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes31 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita32 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 1585px; 
+}
+
+.titulo32 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes32 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita33 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 10px; 
+}
+
+.titulo33 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+    
+}
+
+.ingredientes33 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita34 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 535px; 
+}
+
+.titulo34 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes34 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita35 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 1060px; 
+}
+
+.titulo35 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes35 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
+
+.receita36 {
+    width: 500px;
+    height: 110px;
+    padding: 0px;
+    margin-top: -120px;
+    margin-left: 1585px; 
+}
+
+.titulo36 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.ingredientes36 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-size: inherit;
+}
